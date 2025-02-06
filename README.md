@@ -13,7 +13,7 @@ Este es un proyecto en **JavaScript, HTML y CSS** que permite realizar un **sort
 ## 📷 Capturas de Pantalla  
 
 ### 📝 **Interfaz para agregar nombres:**  
-![Agregar nombres](RUTA_DE_LA_IMAGEN_1)  
+![Agregar nombres](https://github.com/Daccar77/amigo-secreto/blob/main/assets/Captura%20agregar%20nombre%20l.png)  
 
 ### 🎲 **Sorteo realizado:**  
 ![Sorteo realizado](RUTA_DE_LA_IMAGEN_2)  
